@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="https://www.linkedin.com/in/SEU-LINK-AQUI">
+<a href="https://www.linkedin.com/in/samuel-ferreira-guimarães-6929823b8/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:samuelguimaa@hotmail.com">
