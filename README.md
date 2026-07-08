@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B4C7E,100:4A90D9&height=180&section=header&text=Samuel%20Ferreira%20Guimarães&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Engenharia%20de%20Software&descAlignY=58&descSize=18" />
 
+<br>
+
 <a href="https://www.linkedin.com/in/SEU-LINK-AQUI">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
