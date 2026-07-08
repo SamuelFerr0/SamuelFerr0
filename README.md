@@ -24,7 +24,7 @@
 
 ```yaml
 nome: Samuel Ferreira Guimarães
-curso: Engenharia de Software (1º período)
+curso: Engenharia de Software - Puc Minas (2º período)
 foco: HTML, CSS, JavaScript e Python na prática
 abordagem: código simples, organizado e fácil de entender
 objetivo: oportunidade de estágio em desenvolvimento
