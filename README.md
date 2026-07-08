@@ -48,23 +48,12 @@
 
 <br>
 
-### 🏙️ GitHub Skyline (minha atividade em 3D)
-
-<div align="center">
-
-[![Ver meu Skyline 3D](https://img.shields.io/badge/Ver_Skyline_3D-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamuelFerr0/SamuelFerr0/blob/main/SamuelFerr0-2026-github-skyline-reduced.stl)
-<br>
-![GitHub Skyline](./skyline-rotating.gif)
-</div>
-
-<br>
-
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SamuelFerr0&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelFerr0&layout=compact&theme=dark&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=SamuelFerr0&show_icons=true&theme=dark&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SamuelFerr0&layout=compact&theme=dark&hide_border=true" />
 
 </div>
 
