@@ -53,6 +53,7 @@
 <div align="center">
 
 [![Ver meu Skyline 3D](https://img.shields.io/badge/Ver_Skyline_3D-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamuelFerr0/SamuelFerr0/blob/main/SamuelFerr0-2026-github-skyline.stl)
+<script src="https://embed.github.com/view/3d/SamuelFerr0/SamuelFerr0/main/SamuelFerr0-2026-github-skyline-reduced.stl?height=400&width=700"></script>
 
 </div>
 
