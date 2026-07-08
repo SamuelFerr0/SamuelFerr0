@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B4C7E,100:4A90D9&height=180&section=header&text=Samuel%20Ferreira%20Guimarães&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Engenharia%20de%20Software&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=200&section=header&text=Samuel%20Ferreira%20Guimarães&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Engenharia%20de%20Software&descAlignY=52&descSize=18" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=4A90D9&center=true&vCenter=true&width=500&lines=Sempre+aprendendo+algo+novo...;Constru%C3%ADndo+projetos+do+zero;Aberto+a+oportunidades+de+est%C3%A1gio!" />
 
 <br>
 
@@ -10,21 +12,27 @@
 <a href="mailto:samuelguimaa@hotmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="https://github.com/SamuelFerr0">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 <br>
 
-### 👋 Sobre mim
+## 👋 Sobre mim
 
-- 🎓 Estudante de **Engenharia de Software**, cursando o 1º período
-- 💻 Aprendendo **HTML, CSS, JavaScript** e **Python** na prática, construindo projetos do zero
-- 🧠 Gosto de código **simples, organizado e fácil de entender**
-- 🚀 Em busca de uma oportunidade de **estágio em desenvolvimento**
+```yaml
+nome: Samuel Ferreira Guimarães
+curso: Engenharia de Software (1º período)
+foco: HTML, CSS, JavaScript e Python na prática
+abordagem: código simples, organizado e fácil de entender
+objetivo: oportunidade de estágio em desenvolvimento
+```
 
 <br>
 
-### 🛠️ Tecnologias
+## 🛠️ Tecnologias
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,git,github,vscode&theme=dark" />
@@ -32,41 +40,67 @@
 
 <br>
 
-### 📌 Projetos em destaque
+## 📌 Projetos em destaque
 
-> 🔒 **Secure+** — Plataforma web de segurança pública para estádios esportivos, com mapa interativo que destaca o setor com maior número de denúncias e persistência de dados via JSON Server.
-> `HTML` `CSS` `JavaScript` `Node.js`
+<table>
+<tr>
+<td width="50%">
 
-> ⚽ **Footscore** — Site de estatísticas de times de futebol com cards interativos por equipe, exibindo resultados recentes e próximos jogos.
-> `HTML` `CSS` `JavaScript` · [ver repositório](https://github.com/SamuelFerr0/football-insights)
+### 🔒 Secure+
+Plataforma web de segurança pública para estádios esportivos, com mapa interativo que destaca o setor com maior número de denúncias e persistência de dados via JSON Server.
 
-> 🏰 **Defend the Castle** — Jogo 2D desenvolvido em equipe para disciplina de Design de Jogos, com lógica de defesa de torre.
-> `Python` `Pygame`
+`HTML` `CSS` `JavaScript` `Node.js`
 
-> 🍅 **PoQi** — App de estudos baseado na técnica Pomodoro, com mecânicas em pixel art.
-> `JavaScript` `HTML` `CSS`
+</td>
+<td width="50%">
+
+### ⚽ Footscore
+Site de estatísticas de times de futebol com cards interativos por equipe, exibindo resultados recentes e próximos jogos.
+
+`HTML` `CSS` `JavaScript`
+
+**[→ Ver repositório](https://github.com/SamuelFerr0/football-insights)**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏰 Defend the Castle
+Jogo 2D desenvolvido em equipe para a disciplina de Design de Jogos, com lógica de defesa de torre.
+
+`Python` `Pygame`
+
+</td>
+<td width="50%">
+
+### 🍅 PoQi
+App de estudos baseado na técnica Pomodoro, com mecânicas em pixel art.
+
+`JavaScript` `HTML` `CSS`
+
+</td>
+</tr>
+</table>
 
 <br>
 
-### 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <div align="center">
 
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=SamuelFerr0&show_icons=true&theme=dark&hide_border=true&hide=stars,issues,contribs" />
-<img height="130" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SamuelFerr0&layout=compact&theme=dark&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SamuelFerr0&layout=compact&theme=dark&hide_border=true" />
 
-</div>
+<br>
 
-<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelFerr0&theme=dark&hide_border=true" />
+
 </div>
+
 
 <br>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=4A90D9&center=true&vCenter=true&width=500&lines=Sempre+aprendendo+algo+novo...;Aberto+a+oportunidades+de+est%C3%A1gio!" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:414345,100:232526&height=120&section=footer" />
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90D9,100:2B4C7E&height=100&section=footer" />
