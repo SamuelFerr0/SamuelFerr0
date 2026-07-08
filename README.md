@@ -52,8 +52,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=SamuelFerr0&show_icons=true&theme=dark&hide_border=true" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SamuelFerr0&layout=compact&theme=dark&hide_border=true" />
+<img height="130" src="https://github-stats-extended.vercel.app/api?username=SamuelFerr0&show_icons=true&theme=dark&hide_border=true" />
+<img height="130" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SamuelFerr0&layout=compact&theme=dark&hide_border=true" />
 
 </div>
 
