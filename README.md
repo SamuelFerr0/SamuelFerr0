@@ -52,9 +52,9 @@
 
 <div align="center">
 
-[![Ver meu Skyline 3D](https://img.shields.io/badge/Ver_Skyline_3D-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamuelFerr0/SamuelFerr0/blob/main/SamuelFerr0-2026-github-skyline.stl)
-[🔗 Ver modelo 3D interativo](https://github.com/SamuelFerr0/SamuelFerr0/blob/main/SamuelFerr0-2026-github-skyline-reduced.stl)
-
+[![Ver meu Skyline 3D](https://img.shields.io/badge/Ver_Skyline_3D-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamuelFerr0/SamuelFerr0/blob/main/SamuelFerr0-2026-github-skyline-reduced.stl)
+<br>
+![GitHub Skyline](./skyline-rotating.gif)
 </div>
 
 <br>
