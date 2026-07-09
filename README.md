@@ -71,8 +71,8 @@ App de estudos baseado na técnica Pomodoro, com mecânicas em pixel art.
 
 ## Estatísticas do GitHub
 <div align="center">
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=SamuelFerr0&show_icons=true&theme=dark&hide_border=true&hide=stars,issues,contribs" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SamuelFerr0&layout=compact&theme=dark&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=SamuelFerr0&show_icons=true&theme=dark&hide_border=true&hide=stars,issues,contribs&cache_seconds=21600" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SamuelFerr0&layout=compact&theme=dark&hide_border=true&cache_seconds=21600" />
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelFerr0&theme=dark&hide_border=true" />
 </div>
