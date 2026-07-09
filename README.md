@@ -20,7 +20,7 @@
 
 <br>
 
-## 👋 Sobre mim
+## Sobre mim
 
 ```yaml
 nome: Samuel Ferreira Guimarães
@@ -32,7 +32,7 @@ objetivo: oportunidade de estágio em desenvolvimento
 
 <br>
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,git,github,vscode&theme=dark" />
@@ -40,13 +40,13 @@ objetivo: oportunidade de estágio em desenvolvimento
 
 <br>
 
-## 📌 Projetos em destaque
+## Projetos em destaque
 
 <table>
 <tr>
 <td width="50%">
 
-### 🔒 Secure+
+### Secure+
 Plataforma web de segurança pública para estádios esportivos, com mapa interativo que destaca o setor com maior número de denúncias e persistência de dados via JSON Server.
 
 `HTML` `CSS` `JavaScript` `Node.js`
@@ -54,7 +54,7 @@ Plataforma web de segurança pública para estádios esportivos, com mapa intera
 </td>
 <td width="50%">
 
-### ⚽ Footscore
+### Footscore
 Site de estatísticas de times de futebol com cards interativos por equipe, exibindo resultados recentes e próximos jogos.
 
 `HTML` `CSS` `JavaScript`
@@ -66,7 +66,7 @@ Site de estatísticas de times de futebol com cards interativos por equipe, exib
 <tr>
 <td width="50%">
 
-### 🏰 Defend the Castle
+### Defend the Castle
 Jogo 2D desenvolvido em equipe para a disciplina de Design de Jogos, com lógica de defesa de torre.
 
 `Python` `Pygame`
@@ -74,7 +74,7 @@ Jogo 2D desenvolvido em equipe para a disciplina de Design de Jogos, com lógica
 </td>
 <td width="50%">
 
-### 🍅 PoQi
+### PoQi
 App de estudos baseado na técnica Pomodoro, com mecânicas em pixel art.
 
 `JavaScript` `HTML` `CSS`
@@ -85,7 +85,7 @@ App de estudos baseado na técnica Pomodoro, com mecânicas em pixel art.
 
 <br>
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
 
