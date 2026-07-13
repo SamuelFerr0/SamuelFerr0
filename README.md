@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=200&section=header&text=Samuel%20Ferreira%20Guimarães&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Engenharia%20de%20Software&descAlignY=52&descSize=18" />
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=4A90D9&center=true&vCenter=true&width=500&lines=Sempre+aprendendo+algo+novo...;Constru%C3%ADndo+projetos+do+zero;Aberto+a+oportunidades+de+est%C3%A1gio!" />
 <br>
