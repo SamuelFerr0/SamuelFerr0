@@ -26,7 +26,7 @@ objetivo: oportunidade de estágio em desenvolvimento
 
 ## Tecnologias
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,git,github,vscode,java,spring,react&theme=dark" />
 </div>
 <br>
 
