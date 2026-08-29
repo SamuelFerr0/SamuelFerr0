@@ -15,6 +15,7 @@
 <br>
 
 ## Sobre mim
+
 ```yaml
 nome: Samuel Ferreira Guimarães
 curso: Engenharia de Software - Puc Minas (2º período)
@@ -22,60 +23,68 @@ foco: HTML, CSS, JavaScript e Python na prática
 abordagem: código simples, organizado e fácil de entender
 objetivo: oportunidade de estágio em desenvolvimento
 ```
+
 <br>
 
 ## Tecnologias
+
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,git,github,vscode,java,spring,react&theme=dark" />
 </div>
+
 <br>
 
 ## Projetos em destaque
+
 <table>
 <tr>
 <td width="50%">
 
 ### Secure+
 Plataforma web de segurança pública para estádios esportivos, com mapa interativo que destaca o setor com maior número de denúncias e persistência de dados via JSON Server.
-
 `HTML` `CSS` `JavaScript` `Node.js`
+**[→ Ver repositório](https://github.com/SamuelFerr0/Secure-)**
+
 </td>
 <td width="50%">
 
 ### Footscore
 Site de estatísticas de times de futebol com cards interativos por equipe, exibindo resultados recentes e próximos jogos.
-
 `HTML` `CSS` `JavaScript`
-
 **[→ Ver repositório](https://github.com/SamuelFerr0/football-insights)**
+
 </td>
 </tr>
 <tr>
 <td width="50%">
 
 ### Defend the Castle
-Jogo 2D desenvolvido em equipe para a disciplina de Design de Jogos, com lógica de defesa de torre.
-
+Jogo 2D desenvolvido em equipe, com lógica de defesa de torre.
 `Python` `Pygame`
+**[→ Ver repositório](https://github.com/SamuelFerr0/Defend-the-Castle)**
+
 </td>
 <td width="50%">
 
 ### PoQi
 App de estudos baseado na técnica Pomodoro, com mecânicas em pixel art.
-
 `JavaScript` `HTML` `CSS`
+
 </td>
 </tr>
 </table>
+
 <br>
 
 ## Estatísticas do GitHub
+
 <div align="center">
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=SamuelFerr0&show_icons=true&theme=dark&hide_border=true&hide=stars,issues,contribs&cache_seconds=21600" />
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SamuelFerr0&layout=compact&theme=dark&hide_border=true&cache_seconds=21600" />
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelFerr0&theme=dark&hide_border=true" />
 </div>
+
 <br>
 
 <div align="center">
