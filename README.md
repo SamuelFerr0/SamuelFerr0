@@ -66,9 +66,10 @@ Jogo 2D desenvolvido em equipe, com lógica de defesa de torre.
 </td>
 <td width="50%">
 
-### PoQi
-App de estudos baseado na técnica Pomodoro, com mecânicas em pixel art.
-`JavaScript` `HTML` `CSS`
+### ClimaAPI
+API REST em Spring Boot que consulta o clima atual e a previsão do tempo usando a OpenWeatherMap.
+`Java` `Spring Boot`
+**[→ Ver repositório](https://github.com/SamuelFerr0/climaapi)**
 
 </td>
 </tr>
@@ -82,7 +83,7 @@ App de estudos baseado na técnica Pomodoro, com mecânicas em pixel art.
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=SamuelFerr0&show_icons=true&theme=dark&hide_border=true&hide=stars,issues,contribs&cache_seconds=21600" />
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SamuelFerr0&layout=compact&theme=dark&hide_border=true&cache_seconds=21600" />
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelFerr0&theme=dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=SamuelFerr0&theme=dark&hide_border=true" />
 </div>
 
 <br>
