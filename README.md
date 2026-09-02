@@ -5,6 +5,9 @@
 <a href="https://www.linkedin.com/in/samuel-ferreira-guimarães-6929823b8/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://github.com/SamuelFerr0">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 <a href="mailto:samuelguimaa@hotmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -15,6 +18,9 @@
 <br>
 
 ## Sobre mim
+
+Sou estudante de Engenharia de Software, no início da graduação, aprendendo a programar construindo projetos de verdade — não só seguindo exercício de aula. Também já concluí um curso de extensão em Introdução à Computação Quântica pelo ICEI/PUC Minas. Gosto de entender o conceito antes de partir pro código, e prefiro soluções simples e organizadas a atalho que funciona mas ninguém mais entende depois.
+
 
 ```yaml
 nome: Samuel Ferreira Guimarães
@@ -31,6 +37,14 @@ objetivo: oportunidade de estágio em desenvolvimento
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,git,github,vscode,java,spring,react&theme=dark" />
 </div>
+
+<br>
+
+## Um pouco sobre mim
+
+- ⚽ Já joguei futebol e hoje jogo futevôlei, além de acompanhar o Brasileirão
+- 🎮 CS2 no competitivo e também curto jogos de futebol, nas horas livres
+- 🧩 Gosto de resolver desafios — de matemática, de programação, o que aparecer
 
 <br>
 
@@ -77,13 +91,40 @@ API REST em Spring Boot que consulta o clima atual e a previsão do tempo usando
 
 <br>
 
+## WakaTime
+
+<div align="center">
+<img src="https://helio-github-stats.vercel.app/api/wakatime?username=dbd08388-1123-49c9-bad8-5330ee54ba46&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&langs_count=10&theme=dark" width="466" />
+<img src="https://helio-github-stats.vercel.app/api/wakatime?username=dbd08388-1123-49c9-bad8-5330ee54ba46&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=default&display_format=time&langs_count=10&theme=dark" width="466" />
+</div>
+
+<br>
+
 ## Estatísticas do GitHub
 
 <div align="center">
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=SamuelFerr0&show_icons=true&theme=dark&hide_border=true&hide=stars,issues,contribs&cache_seconds=21600" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SamuelFerr0&layout=compact&theme=dark&hide_border=true&cache_seconds=21600" />
+<img height="165" src="https://helio-github-stats.vercel.app/api?username=SamuelFerr0&custom_title=GitHub+Stats&theme=dark&title_color=4A90D9&text_color=ffffff&icon_color=4A90D9&ring_color=4A90D9&border_color=e4e2e2&hide_border=false&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short" />
+<img height="165" src="https://helio-github-stats.vercel.app/api/top-langs?username=SamuelFerr0&layout=compact&theme=dark&hide_border=true&card_width=350" />
 <br>
 <img src="https://streak-stats.demolab.com/?user=SamuelFerr0&theme=dark&hide_border=true" />
+</div>
+
+<br>
+
+<br>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuelFerr0/SamuelFerr0/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamuelFerr0/SamuelFerr0/output/github-snake.svg" />
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/SamuelFerr0/SamuelFerr0/output/github-snake.svg" />
+</picture>
+</div>
+
+<br>
+
+<div align="center">
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=SamuelFerr0&style=for-the-badge&color=232526" />
 </div>
 
 <br>
