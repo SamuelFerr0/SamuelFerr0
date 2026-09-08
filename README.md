@@ -103,10 +103,8 @@ API REST em Spring Boot que consulta o clima atual e a previsão do tempo usando
 ## Estatísticas do GitHub
 
 <div align="center">
-<img height="165" src="https://helio-github-stats.vercel.app/api?username=SamuelFerr0&custom_title=GitHub+Stats&theme=dark&title_color=4A90D9&text_color=ffffff&icon_color=4A90D9&ring_color=4A90D9&border_color=e4e2e2&hide_border=false&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short" />
-<img height="165" src="https://helio-github-stats.vercel.app/api/top-langs?username=SamuelFerr0&layout=compact&theme=dark&hide_border=true&card_width=350" />
-<br>
-<img src="https://streak-stats.demolab.com/?user=SamuelFerr0&theme=dark&hide_border=true" />
+    <img alt="GitHub Stats" src="https://github-stats-extended.vercel.app/api?username=SamuelFerr0&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent">
+    <img alt="Most Used Languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=SamuelFerr0&layout=compact&theme=transparent">
 </div>
 
 <br>
