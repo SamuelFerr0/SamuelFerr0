@@ -11,7 +11,7 @@
 <a href="mailto:samuelguimaa@hotmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://samuel-ferreira-portifolio.vercel.app/">
+<a href="https://sferreira.dev">
   <img src="https://img.shields.io/badge/Portfólio-232526?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 </div>
